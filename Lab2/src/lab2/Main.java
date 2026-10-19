@@ -16,9 +16,9 @@ public class Main {
                 b.addAlly(p1);
                 b.addAlly(p2);
                 b.addAlly(p3);
-                b.addFoe(p4);
-                b.addFoe(p5);
                 b.addFoe(p6);
+                b.addFoe(p5);
+                b.addFoe(p4);
                 b.go();
 
         }
